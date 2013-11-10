@@ -23,10 +23,6 @@ public class MainActivity extends ActionBarActivity {
                     .add(R.id.container, new PlaceholderFragment())
                     .commit();
         }
-
-        boolean test = false;
-        if(test == true)
-            return;
     }
 
 
